@@ -1,5 +1,3 @@
-//const { usage_analytics } = require("../nightwatch.conf");
-
 module.exports = {
     "Test 1" : function (browser){
         browser.init();
